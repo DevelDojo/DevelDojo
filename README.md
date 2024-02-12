@@ -1,9 +1,8 @@
-
-
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc3NDk0NDEsIm5iZiI6MTcwNzc0OTE0MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjEyVDE0NDU0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5MDE4MTUyOGU2MDY3OTAzZmEyYzdhOTI0MDEyYWU0OGVkMDE4MTg2N2M5ODgxOWFkZTY2NTE2MzM2NzI3MjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TJZVWYJs6e8XP_dnIrvjp7l5amM6WgAJyh2IwyYVTlE)
 # 💫 About Me:
 **Development Dojo is a community for individuals who are passionate about software development and are looking to improve their skills.**
 
-🔭 We are currently working Web, Blockchain and GenAI<br>👯 We are looking to collaborate<br>🤝 Join us with our journey<br>💬 Ask us about anything<br>⚡ Fun fact : 
+🔭 We are currently working Web, Blockchain and GenAI<br>👯 We are looking to collaborate<br>🤝 Join us with our journey<br>💬 Ask us about anything<br>⚡ Fun fact : About 69% of software developers are employed, while 15% work as freelancers.
 
 
 ## 🌐 Socials:
